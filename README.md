@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @softer777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### **🔥Универсальная панель для игры в Lineage 2 на серверах Essence🔥** 
+****
 
-<!---
-softer777/softer777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Преимущества:
+
+✅ Перезалет на рандомные  споты
+✅ Поднимать персонажей на удаленных пк
+✅ ***Поддержка 6 окон***
+✅ Фарм на макросе
+✅ Фарм в режиме Optimize Performance / неактивном окне
+✅ Конфигуратор персонажа en-ru для funpay
+✅ ***Перезалет с инст-зон***
+✅ Уведомление о времени смерти
+✅ Подсчет свитков свободного телепорта
+
+****
+### ❗Системные требования❗
+
+- Windows 10 Pro и выше
+- Disabled Defender Antivirus
+****
+### Руководство по установке
+🔥Скачать, запустить ***run.bat*** от имени администратора.
+****
+### ⭐Активация⭐
+🍺Написать сюда **Discord**: ***vesimeyu***
+ ****
+### 🎲Прочее:
+### Отключение Defender
+****
+1. Скачайте ***RIPDefender.reg*** и ***PowerRun.exe***
+2. Перетащите ***RIPDefender.reg*** на ***PowerRun.exe***
+3. Перезагрузите ПК
+
+**Full Changelog**: https://github.com/softer777/softer777/commits/l2
+
+**Full Changelog**: https://github.com/softer777/softer777/commits/l2
+
+**Full Changelog**: https://github.com/softer777/softer777/commits/essence
